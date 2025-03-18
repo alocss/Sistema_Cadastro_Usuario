@@ -10,26 +10,26 @@ public class Usuario {
             this.idade = idade;
     }
     // Getters e Setters
-    public String Nome(){
+    public String getNome(){
         return nome;
     }
-    public void Nome(String nome){
+    public void setNome(String nome){
         this.nome = nome;
     }
 
-    public String Email(){
+    public String getEmail(){
         return email;
     }
 
-    public void Email (String email){
+    public void setEmail (String email){
         this.email = email;
     }
 
-    public int Idade (){
+    public int getIdade (){
         return idade;
     }
 
-    public void Idade (int idade){
+    public void setIdade (int idade){
         this.idade = idade;
     }
 
